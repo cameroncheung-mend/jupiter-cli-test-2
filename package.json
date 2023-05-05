@@ -10,7 +10,7 @@
   "dependencies": {
     "@coral-xyz/borsh": "^0.27.0",
     "@jup-ag/core": "4.0.0-beta.17",
-    "@solana/spl-token": "0.1.8",
+    "@solana/spl-token": "0.3.7",
     "@solana/web3.js": "^1.75.0",
     "commander": "^9.1.0",
     "dotenv": "^16.0.0",
